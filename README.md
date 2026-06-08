@@ -110,7 +110,7 @@ curl -o wordgen https://raw.githubusercontent.com/ujjal-dev/wordlist-wordgen/mai
 curl -O https://raw.githubusercontent.com/ujjal-dev/wordlist-wordgen/main/wordgen
 
 # Make executable
-chmod +x wordgen
+chmod +x wordgen.sh
 
 # Run
 ./wordgen
@@ -122,7 +122,7 @@ git clone https://github.com/ujjal-dev/wordlist-wordgen.git
 cd wordlist-wordgen
 
 # Make executable
-chmod +x wordgen
+chmod +x wordgen.sh
 
 # Run
 ./wordgen
