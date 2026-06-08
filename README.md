@@ -67,6 +67,7 @@ The **OSINT Psychology Wordlist Generator** is an intelligent password wordlist 
 - 📊 **Generation Statistics** - See which patterns generated most words
 - 💾 **Save & Export** - Save generated wordlists to files
 - 🚀 **Fast Generation** - Optimized algorithm for quick results
+- 
 
 ---
 # 📥 Installation Guide - OSINT Psychology Wordlist Generator
@@ -87,7 +88,8 @@ The **OSINT Psychology Wordlist Generator** is an intelligent password wordlist 
 - **RAM**: 1 GB
 - **Terminal**: Any modern terminal with color support
 
----
+---<img width="1249" height="816" alt="Screenshot 2026-06-08 121559" src="https://github.com/user-attachments/assets/1d3babec-c3fb-432b-9c6b-e79475efcd3e" />
+
 
 ## 📦 Installation Methods
 
