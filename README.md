@@ -69,6 +69,33 @@ The **OSINT Psychology Wordlist Generator** is an intelligent password wordlist 
 - 🚀 **Fast Generation** - Optimized algorithm for quick results
 
 ---
+# 📥 Installation Guide - OSINT Psychology Wordlist Generator
+
+## System Requirements
+
+### Minimum Requirements
+- **OS**: Linux, macOS, Windows (10/11), Termux (Android)
+- **Python**: Version 3.7 or higher
+- **Storage**: 10 MB free space
+- **RAM**: 512 MB minimum
+- **Internet**: Required only for GitHub clone
+
+### Recommended Requirements
+- **OS**: Ubuntu 20.04+ / macOS 12+ / Windows 11
+- **Python**: Version 3.9+
+- **Storage**: 50 MB free space
+- **RAM**: 1 GB
+- **Terminal**: Any modern terminal with color support
+
+---
+
+## 📦 Installation Methods
+
+### Method 1: One-Line Install (Linux/macOS)
+
+```bash
+# Download and make executable in one command
+curl -o wordgen https://raw.githubusercontent.com/ujjal-dev/wordlist-wordgen/main/wordgen && chmod +x wordgen && ./wordgen
 
 ## 📦 Installation
 
